@@ -97,6 +97,7 @@
   - AllAccess
   access:
   - CentralCommand
+  - ErtTeamLeader
 
 - type: job
   id: BSAAMedicJob
