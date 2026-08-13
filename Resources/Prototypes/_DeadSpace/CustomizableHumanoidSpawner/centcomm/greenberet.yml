@@ -49,5 +49,4 @@
 - type: loadout
   id: CentralCommandGreenBeretOfficerLoadout
   equipment:
-    back: ClothingBackpackSatchelBig
     socks: ClothingUnderwearSocksBlueShieldOfficer
